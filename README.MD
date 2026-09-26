@@ -10,7 +10,7 @@ The objective of this Excel lab is to understand how **lookup functions** can be
 |---|---|---|---|
 | 1️⃣ | Retrieve Sales for a given Order_ID | **VLOOKUP** | Finds the matching Order_ID and returns its Sales value |
 | 2️⃣ | Retrieve Profit for a given Order_ID | **XLOOKUP** | Finds the matching Order_ID and returns its Profit value |
-| 3️⃣ | Find City for a given Order_ID | **XLOOKUP** | Finds the matching Order_ID and returns the corresponding City |
+| 3️⃣ | Find City for a given Order_ID | **INDEX + MATCH** | Finds the matching Order_ID and returns the corresponding City |
 
 ## 🧮 Formulas Used
 
